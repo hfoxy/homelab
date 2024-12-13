@@ -7,3 +7,4 @@ Networking
   * SR = short range - expensive cable, cheaper (not cheap) transciever
   * LR = long range - cheap cable, very expensive transciever
   * Anything under 100m, use SR (probably)
+  * https://www.reddit.com/r/homelab/comments/uow6lq/guidance_on_10g40g_connection_for_home_networking/
